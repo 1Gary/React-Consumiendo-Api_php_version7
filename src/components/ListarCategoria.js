@@ -39,7 +39,7 @@ export default function ListarCategoria()
         });  
         console.log(inputs);    
     }
-    
+    //ggaaaaaaa
     
 
     const EliminarCat = (cat_id) =>{
